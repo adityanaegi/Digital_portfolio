@@ -30,7 +30,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Aditya Pratap Singh Negi. I’m currently pursuing B.Tech in Computer Science Engineering from NIIT University. I am eager to contribute my skills and enthusiasm to tackle complex challenges and deliver exceptional user experiences. Looking for ways to extend my skillset and move up the ladder as efficient as possible.",
-  resume: require("../editable-stuff/resume.pdf"),
+  resume: require("../editable-stuff/AdityaNegi_Resume.pdf"),
 };
 
 
